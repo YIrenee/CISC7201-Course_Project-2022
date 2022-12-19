@@ -1,0 +1,242 @@
+
+England : Players
+
+Country : England  
+Сoach : Gareth Southgate 
+
+ 
+
+1
+
+Jordan Pickford
+Goalkeeper
+07.03.1994
+185
+77
+
+
+13
+
+Nick Pope
+Goalkeeper
+19.04.1992
+191
+76
+
+
+23
+
+Aaron Ramsdale
+Goalkeeper
+14.05.1998
+188
+80
+
+
+2
+
+Kyle Walker
+Full-back
+28.05.1990
+178
+70
+
+
+3
+
+Luke Shaw
+Full-back
+12.07.1995
+185
+75
+
+
+5
+
+John Stones
+Full-back
+28.05.1994
+188
+70
+
+
+6
+
+Harry Maguire
+Full-back
+05.03.1993
+188
+79
+
+
+12
+
+Kieran Trippier
+Full-back
+19.09.1990
+173
+71
+
+
+15
+
+Eric Dier
+Full-back
+15.01.1994
+188
+63
+
+
+16
+
+Conor Coady
+Full-back
+25.02.1993
+186
+80
+
+
+18
+
+Trent Alexander-Arnold
+Full-back
+07.10.1998
+175
+69
+
+
+21
+
+Ben White
+Full-back
+08.11.1997
+185
+78
+
+
+26
+
+Conor Gallagher
+Half-back
+06.02.2000
+182
+71
+
+
+4
+
+Declan Rice
+Half-back
+14.01.1999
+185
+80
+
+
+7
+
+Jack Grealish
+Half-back
+10.09.1995
+175
+69
+
+
+8
+
+Jordan Henderson
+Half-back
+17.06.1990
+182
+67
+
+
+10
+
+Raheem Sterling
+Half-back
+08.12.1994
+170
+69
+
+
+14
+
+Kalvin Phillips
+Half-back
+02.12.1995
+178
+72
+
+
+17
+
+Bukayo Saka
+Half-back
+05.09.2001
+178
+70
+
+
+19
+
+Mason Mount
+Half-back
+10.01.1999
+178
+70
+
+
+20
+
+Philip Foden
+Half-back
+28.05.2000
+180
+74
+
+
+22
+
+Jude Bellingham
+Half-back
+29.06.2003
+181
+62
+
+
+25
+
+Maddison
+Half-back
+23.11.1996
+175
+73
+
+
+9
+
+Harry Kane
+Forward
+28.07.1993
+183
+65
+
+
+11
+
+Marcus Rashford
+Forward
+31.10.1997
+180
+73
+
+
+24
+
+Callum Wilson
+Forward
+27.02.1992
+180
+66
+
+

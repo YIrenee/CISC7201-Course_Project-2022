@@ -1,0 +1,242 @@
+
+Argentina : Players
+
+Country : Argentina  
+Сoach : Lionel Scaloni 
+
+ 
+
+1
+
+Franco Armani
+Goalkeeper
+16.10.1986
+189
+85
+
+
+12
+
+Geronimo Rulli
+Goalkeeper
+20.05.1992
+189
+80
+
+
+23
+
+Emiliano Martinez
+Goalkeeper
+02.09.1992
+190
+90
+
+
+2
+
+Juan Foyth
+Full-back
+12.01.1998
+179
+69
+
+
+3
+
+Nicolás Tagliafico
+Full-back
+31.08.1992
+172
+65
+
+
+4
+
+Gonzalo Montiel
+Full-back
+01.01.1997
+175
+70
+
+
+6
+
+Germán Pezzella
+Full-back
+27.06.1991
+187
+82
+
+
+13
+
+Romero C.
+Full-back
+27.04.1998
+185
+79
+
+
+19
+
+Nicolas Otamendi
+Full-back
+12.02.1988
+183
+78
+
+
+25
+
+Lisandro Martínez
+Full-back
+18.01.1998
+178
+77
+
+
+26
+
+Nahuel Molina
+Full-back
+02.12.1997
+175
+70
+
+
+18
+
+Guido Rodríguez
+Half-back
+12.04.1994
+185
+78
+
+
+5
+
+Leandro Paredes
+Half-back
+29.06.1994
+180
+75
+
+
+7
+
+Rodrigo De Paul
+Half-back
+24.05.1994
+178
+78
+
+
+8
+
+Marcos Acuña
+Half-back
+28.10.1991
+172
+66
+
+
+11
+
+Angel Di Maria
+Half-back
+14.02.1988
+180
+75
+
+
+14
+
+Exequiel Palacios
+Half-back
+05.10.1998
+177
+70
+
+
+15
+
+Ángel Correa
+Half-back
+09.03.1995
+171
+70
+
+
+20
+
+Mac Allister A.
+Half-back
+24.12.1998
+176
+70
+
+
+24
+
+Enzo Fernandez
+Half-back
+17.01.2001
+18
+75
+
+
+16
+
+Almada
+Half-back
+26.04.2001
+171
+0
+
+
+9
+
+Julián Álvarez
+Forward
+31.01.2000
+170
+71
+
+
+10
+
+Lionel Messi
+Forward
+24.06.1987
+170
+72
+
+
+17
+
+Alejandro Gomez
+Forward
+15.02.1988
+167
+68
+
+
+21
+
+Paulo Dybala
+Forward
+15.11.1993
+177
+73
+
+
+22
+
+Lautaro Martínez
+Forward
+22.09.1997
+174
+72
+
+

@@ -1,0 +1,242 @@
+
+Poland : Players
+
+Country : Poland  
+Сoach : Czesław Michniewicz 
+
+ 
+
+1
+
+Wojciech Szczesny
+Goalkeeper
+18.04.1990
+195
+84
+
+
+12
+
+Łukasz Skorupski
+Goalkeeper
+05.05.1991
+187
+84
+
+
+22
+
+Kamil Grabara
+Goalkeeper
+08.01.1999
+190
+75
+
+
+3
+
+Artur Jedrzejczyk
+Full-back
+04.11.1987
+189
+78
+
+
+4
+
+Mateusz Wieteska
+Full-back
+11.02.1997
+187
+77
+
+
+5
+
+Bednarek
+Full-back
+12.04.1996
+189
+77
+
+
+6
+
+Krystian Bielik
+Full-back
+04.01.1998
+189
+78
+
+
+10
+
+Grzegorz Krychowiak
+Full-back
+29.01.1990
+186
+83
+
+
+14
+
+Jakub Kiwior
+Full-back
+15.02.2000
+182
+70
+
+
+15
+
+Kamil Glik
+Full-back
+03.02.1988
+190
+80
+
+
+18
+
+Bartosz Bereszyński
+Full-back
+12.07.1992
+183
+77
+
+
+25
+
+Robert Gumny
+Full-back
+04.06.1998
+175
+70
+
+
+2
+
+Matty Cash
+Half-back
+07.08.1997
+185
+80
+
+
+8
+
+Damian Szymanski
+Half-back
+16.06.1995
+181
+70
+
+
+13
+
+Jakub Kamiński
+Half-back
+05.06.2002
+178
+68
+
+
+17
+
+Szymon Zurkowski
+Half-back
+25.09.1997
+183
+82
+
+
+19
+
+Sebastian Szymanski
+Half-back
+10.05.1999
+174
+58
+
+
+20
+
+Piotr Zielinski
+Half-back
+20.05.1994
+177
+64
+
+
+24
+
+Przemyslaw Frankowski
+Half-back
+12.04.1995
+176
+70
+
+
+26
+
+Michał Skóraś
+Half-back
+15.02.2000
+172
+64
+
+
+21
+
+Nicola Zalewski
+Half-back
+21.01.2002
+175
+60
+
+
+7
+
+Arkadiusz Milik
+Forward
+28.02.1994
+186
+78
+
+
+9
+
+Robert Lewandowski
+Forward
+21.08.1988
+184
+80
+
+
+11
+
+Kamil Grosicki
+Forward
+08.06.1988
+180
+78
+
+
+16
+
+Karol Świderski
+Forward
+23.01.1997
+184
+77
+
+
+23
+
+Krzysztof Piątek
+Forward
+01.05.1995
+183
+77
+
+

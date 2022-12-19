@@ -1,0 +1,242 @@
+
+Uruguay : Players
+
+Country : Uruguay  
+Сoach : Диего Алонсо 
+
+ 
+
+0
+
+Sebastian Sosa
+Goalkeeper
+19.08.1986
+0
+0
+
+
+1
+
+Fernando Muslera
+Goalkeeper
+16.06.1986
+190
+90
+
+
+23
+
+Sergio Rochet
+Goalkeeper
+23.03.1993
+190
+82
+
+
+0
+
+Guillermo Varela
+Full-back
+24.03.1993
+173
+70
+
+
+0
+
+Mathias Olivera
+Full-back
+31.10.1997
+184
+78
+
+
+0
+
+Rodriguez J. L.
+Full-back
+14.03.1997
+0
+0
+
+
+2
+
+Gimenez Jose
+Full-back
+20.01.1995
+185
+80
+
+
+3
+
+Diego Godin
+Full-back
+16.02.1986
+187
+80
+
+
+4
+
+Ronald Araujo
+Full-back
+07.03.1999
+191
+91
+
+
+17
+
+Matías Viña
+Full-back
+09.11.1997
+176
+70
+
+
+19
+
+Sebastian Coates
+Full-back
+07.10.1990
+196
+92
+
+
+22
+
+Martín Cáceres
+Full-back
+07.04.1987
+182
+78
+
+
+0
+
+Manuel Ugarte
+Half-back
+11.04.2001
+182
+75
+
+
+5
+
+Matias Vecino
+Half-back
+24.08.1991
+187
+80
+
+
+6
+
+Rodrigo Bentancur
+Half-back
+25.06.1997
+185
+73
+
+
+7
+
+Nicolás De La Cruz
+Half-back
+01.06.1997
+167
+65
+
+
+8
+
+Facundo Pellistri
+Half-back
+20.12.2001
+175
+68
+
+
+10
+
+Giorgian De Arrascaeta
+Half-back
+01.06.1994
+172
+67
+
+
+14
+
+Torreira
+Half-back
+11.02.1996
+166
+65
+
+
+21
+
+Edinson Cavani
+Half-back
+14.02.1987
+184
+71
+
+
+0
+
+Agustin Canobbio
+Half-back
+01.10.1998
+175
+72
+
+
+15
+
+Federico Valverde
+Half-back
+22.07.1998
+182
+78
+
+
+0
+
+Núñez D.
+Forward
+24.06.1999
+187
+78
+
+
+9
+
+Luis Suarez
+Forward
+24.01.1987
+182
+86
+
+
+18
+
+Maxi Gómez
+Forward
+14.08.1996
+186
+91
+
+
+25
+
+Facundo Torres
+Forward
+13.04.2000
+177
+71
+
+
